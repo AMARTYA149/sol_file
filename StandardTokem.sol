@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
-import "./BasicToken.sol";
-import "./ERC20.sol";
+import "https://raw.githubusercontent.com/AMARTYA149/sol_file/master/BasicToken.sol";
+import "https://raw.githubusercontent.com/AMARTYA149/sol_file/master/ERC20.sol";
 
 
 /**
